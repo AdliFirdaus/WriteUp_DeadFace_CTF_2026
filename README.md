@@ -91,6 +91,6 @@ Every target referenced here (the `*.dctf.io` hosts, the GhostTown forum, the do
 **Adli Firdaus** — cybersecurity student at UniKL.
 
 - Medium: _coming soon_
-- LinkedIn: _add your profile link_
+- LinkedIn: [](https://www.linkedin.com/in/adli-firdaus-555b862b2/?isSelfProfile=true)
 
 If you spot a mistake or have a cleaner approach to any of these, open an issue — I'd like to hear it.
