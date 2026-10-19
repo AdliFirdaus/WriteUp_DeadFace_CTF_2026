@@ -184,8 +184,3 @@ This chain is the piece of the CTF I learned the most from, because it wasn't on
 
 ---
 
-**Medium excerpt:** One Linux box, eight privilege-escalation steps, from a service account to root — each one a different real-world misconfiguration. Here's the full DeadFace CTF chain, in order, with the commands that worked.
-
-**Tags:** Cybersecurity · Capture The Flag · Privilege Escalation · Linux · Infosec
-
-**Cover image concept:** A vertical ladder or staircase of eight rungs labelled svc-deploy → deephax → gh0st404 → sunstalker → lilith → spookyboi → mort1cia → root, each rung tagged with its technique. A single image that tells the whole story at a glance.
